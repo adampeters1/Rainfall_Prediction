@@ -1,4 +1,4 @@
-# Rainfall prediction regression task.
+# Rainfall prediction regression task from kaggle.
 
 ## Currently, only a Linear Regression baseline model exists.
 
@@ -9,3 +9,7 @@
 ### MSE: 2.797
 ### RMSE: 1.673
 ### RMSE for LR: 1.673
+
+
+### Kaggle link:
+#### https://www.kaggle.com/datasets/satyanshgaur1/rain-prediction-training-dataset
